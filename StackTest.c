@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define ArraySize 10
-#define ArrayExpanse 10
+#define ArrayExpanse 5
 typedef int type;
 typedef struct Array{
 	type *top;
